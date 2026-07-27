@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0610-triangle-judgement) |
 | [1683-invalid-tweets](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1683-invalid-tweets) |
+## Array
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
