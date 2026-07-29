@@ -25,16 +25,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
@@ -49,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
