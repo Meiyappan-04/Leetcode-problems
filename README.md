@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
