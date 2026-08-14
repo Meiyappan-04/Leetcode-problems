@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0001-two-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0217-contains-duplicate](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -80,4 +81,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
