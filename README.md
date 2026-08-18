@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0217-contains-duplicate](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
+| [0881-boats-to-save-people](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/3731-find-missing-elements) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0881-boats-to-save-people](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -106,5 +108,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0881-boats-to-save-people](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
