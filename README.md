@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0217-contains-duplicate](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -97,5 +99,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
