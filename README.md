@@ -1,4 +1,32 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+# LeetCode Solutions
+
+My daily practice repository for **Data Structures and Algorithms**.
+
+I solve LeetCode problems regularly and use **LeetHub** to automatically push my solutions to GitHub.
+
+## Language
+
+**Java**
+
+## Repository Structure
+
+Problems are automatically organized by topic using LeetHub. Each problem contains its corresponding solution and the problem details.
+
+## Progress
+
+This repository is continuously updated as I solve more LeetCode problems.
+
+> Consistency over perfection.
+
+---
+
+**Platform:** LeetCode
+**Language:** Java
+**Automation:** LeetHub
+
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
