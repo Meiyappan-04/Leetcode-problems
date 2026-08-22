@@ -45,6 +45,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 | [0015-3sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0027-remove-element) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -160,6 +161,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 | [0015-3sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
