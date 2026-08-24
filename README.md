@@ -185,4 +185,5 @@ This repository is continuously updated as I solve more LeetCode problems.
 |  |
 | ------- |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 <!---LeetCode Topics End-->
