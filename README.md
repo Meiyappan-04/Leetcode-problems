@@ -185,7 +185,12 @@ This repository is continuously updated as I solve more LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
