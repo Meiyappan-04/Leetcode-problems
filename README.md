@@ -33,6 +33,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0607-sales-person) |
