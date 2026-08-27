@@ -127,6 +127,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 | ------- |
 | [0001-two-sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -168,6 +169,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 | [0027-remove-element](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0881-boats-to-save-people](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -195,4 +197,8 @@ This repository is continuously updated as I solve more LeetCode problems.
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
