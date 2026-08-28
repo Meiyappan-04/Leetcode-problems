@@ -49,6 +49,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 | [0027-remove-element](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0027-remove-element) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0204-count-primes](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
@@ -189,6 +190,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0204-count-primes) |
 | [1486-xor-operation-in-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -201,4 +203,24 @@ This repository is continuously updated as I solve more LeetCode problems.
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
