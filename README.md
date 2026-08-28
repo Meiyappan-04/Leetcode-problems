@@ -190,6 +190,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0204-count-primes) |
 | [1486-xor-operation-in-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
