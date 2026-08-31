@@ -190,6 +190,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0172-factorial-trailing-zeroes](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0204-count-primes) |
 | [1486-xor-operation-in-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
@@ -203,6 +204,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 ## Enumeration
 |  |
@@ -224,4 +226,8 @@ This repository is continuously updated as I solve more LeetCode problems.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
