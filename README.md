@@ -52,6 +52,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 | [0204-count-primes](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0525-contiguous-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0904-fruit-into-baskets) |
@@ -132,6 +133,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 | [0217-contains-duplicate](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [3731-find-missing-elements](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/3731-find-missing-elements) |
 ## Queue
@@ -186,6 +188,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0525-contiguous-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
