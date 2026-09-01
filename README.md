@@ -108,6 +108,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -116,6 +117,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search Tree
@@ -131,6 +133,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0525-contiguous-array) |
