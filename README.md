@@ -47,6 +47,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 | [0016-3sum-closest](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -165,11 +166,13 @@ This repository is continuously updated as I solve more LeetCode problems.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 ## Range Minimum/Maximum Query
 |  |
@@ -183,6 +186,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -261,6 +265,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0139-word-break) |
