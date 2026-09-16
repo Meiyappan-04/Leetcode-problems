@@ -51,6 +51,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 | [0084-largest-rectangle-in-histogram](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0139-word-break](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -259,6 +260,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 | [0062-unique-paths](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 ## Combinatorics
 |  |
 | ------- |
