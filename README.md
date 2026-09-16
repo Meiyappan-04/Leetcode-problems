@@ -50,6 +50,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 | [0064-minimum-path-sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0204-count-primes) |
@@ -135,6 +136,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 | ------- |
 | [0001-two-sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -281,4 +283,8 @@ This repository is continuously updated as I solve more LeetCode problems.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0139-word-break) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
