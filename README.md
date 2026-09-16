@@ -52,6 +52,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 | [0084-largest-rectangle-in-histogram](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0204-count-primes) |
@@ -222,6 +223,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0136-single-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 ## Linked List
 |  |
