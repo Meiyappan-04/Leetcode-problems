@@ -50,6 +50,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 | [0064-minimum-path-sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0139-word-break](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -108,6 +109,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -132,6 +134,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 | ------- |
 | [0001-two-sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0383-ransom-note) |
@@ -255,6 +258,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 | ------- |
 | [0062-unique-paths](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0064-minimum-path-sum) |
+| [0139-word-break](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
@@ -263,4 +267,16 @@ This repository is continuously updated as I solve more LeetCode problems.
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0064-minimum-path-sum) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
