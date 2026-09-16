@@ -200,6 +200,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0204-count-primes) |
 | [1486-xor-operation-in-an-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
@@ -248,4 +249,12 @@ This repository is continuously updated as I solve more LeetCode problems.
 | [0203-remove-linked-list-elements](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
