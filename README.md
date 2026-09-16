@@ -47,6 +47,7 @@ This repository is continuously updated as I solve more LeetCode problems.
 | [0016-3sum-closest](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0027-remove-element) |
+| [0064-minimum-path-sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0204-count-primes) |
@@ -253,8 +254,13 @@ This repository is continuously updated as I solve more LeetCode problems.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Meiyappan-04/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
